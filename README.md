@@ -29,6 +29,8 @@ This is **Phase 1** of a multi-phase journey to build a full demo project using 
 
 <img width="594" height="447" alt="Screenshot 2025-07-14 at 7 31 32 PM" src="https://github.com/user-attachments/assets/37cce827-0132-4352-be0b-415f24fe0ad1" />
 
+<img width="494" height="480" alt="Screenshot 2025-07-14 at 8 27 50 PM" src="https://github.com/user-attachments/assets/cce47e76-ed3a-4405-8d0a-b989419cffff" />
+
 
 **Tools & Libraries**
 
